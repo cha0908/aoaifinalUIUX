@@ -1,0 +1,46 @@
+.icon-ionicons-wrapper {
+  height: 86px;
+  position: relative;
+  width: 86px;
+}
+
+.icon-ionicons-wrapper .img {
+  height: 0;
+  left: 1667px;
+  object-fit: cover;
+  position: absolute;
+  top: -15100px;
+  width: 0;
+}
+
+.icon-ionicons-wrapper .overlap-group {
+  height: 71px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 77px;
+}
+
+.icon-ionicons-wrapper .subtract {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 62px;
+}
+
+.icon-ionicons-wrapper .subtract-2 {
+  height: 40px;
+  left: 29px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.icon-ionicons-wrapper .vector {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 54px;
+  width: 21px;
+}

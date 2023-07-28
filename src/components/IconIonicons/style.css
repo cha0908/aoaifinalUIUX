@@ -1,0 +1,15 @@
+.icon-ionicons {
+  height: 24px;
+  position: relative;
+  transform: rotate(-90deg);
+  width: 24px;
+}
+
+.icon-ionicons .union {
+  height: 21px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(90deg);
+  width: 18px;
+}
